@@ -3,9 +3,9 @@
 
 # Dataset:
 - Overview of Dataset: The dataset derives from a fictional noodle company FMCG.It focuses on the instant noodles business and has extensive information related to the instant noodles business. This dataset gives us a valuable information on the demand and supply dynamics with the instant noodle feature.This dataset can be used to create practical solution to reduce inventory expenses and increase the FMCG company total profitability.
-
+Link: https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization-for-a-fmcg-company/data
 # Usage Instructions:
-- https://github.com/Sk2195/supplychain_product_optimal_weight.git
+- To clone this repository use the following link: https://github.com/Sk2195/supplychain_product_optimal_weight.git
 ## Dataset Variables Description
 
 | Variable                       | Description |
